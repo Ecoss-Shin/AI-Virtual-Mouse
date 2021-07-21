@@ -2,7 +2,7 @@
 
 ### 검지손가락으로 마우스 포인트를 움직임
 
-![image1](https://user-images.githubusercontent.com/73572179/126422446-2216f6f5-b926-47f7-a3cb-c067395a9388.JPG)
+![image1](https://user-images.githubusercontent.com/73572179/126422629-14abb64b-f06d-4f72-9f13-f186c1fe2061.JPG)
 
 ### 검지와 중지를 넓게 펼치면 마우스 포인터가 정지
 
